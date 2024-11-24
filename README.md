@@ -20,9 +20,9 @@ This project is a web application developed for the Hong Kong Industrial Univers
 
 ## Installation
 1. Clone the repository using:
-   '''
+```
 git clone https://github.com/yourusername/HKIU-Web-Project.git
-'''
+```
 2. Open the `index.html` file in your web browser.
 
 ## Usage
